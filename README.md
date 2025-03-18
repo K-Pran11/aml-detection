@@ -9,7 +9,6 @@ These instructions will help you set up and run the project locally.
 ### Prerequisites
 
 - Python 3.x
-- pip (Python package manager)
 
 ### Installing Dependencies
 
