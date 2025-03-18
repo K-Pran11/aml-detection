@@ -1,6 +1,6 @@
 # Real-Time Anti-Money Laundering (AML) Detection Model
 
-This project implements a real-time Anti-Money Laundering (AML) detection system for financial transactions using a combination of machine learning and rule-based checks.
+This project implements a real-time Anti-Money Laundering (AML) detection system for financial transactions using a combination of machine learning (Isolation forest) and rule-based checks.
 
 ## Getting Started
 
